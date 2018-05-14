@@ -17,7 +17,7 @@ Please don't greet the student, introduce yourself, talk about past lessons, tal
 
 Just start doing. Start showing. You can recap the lesson at the end if you like, but keep it short and just nail the key points and then just stop! Make them yearn for more.
 
-[Avoid Intros and Outros](https://egghead.io/lessons/tools-avoid-intros-and-outros?play=true)
+[![Avoid Intros and Outros](../images/screenshots/avoid-intros-and-outros.png)](https://egghead.io/lessons/tools-avoid-intros-and-outros?play=true)
 
 ## ** Stay on Topic **
 
@@ -27,7 +27,7 @@ As much as possible try to avoid referencing other lessons. "In the next lesson.
 
 If you do need to reference a prerequisite lesson, link to it in the description!
 
-[Stay on Topic](https://egghead.io/lessons/tools-stay-on-topic?play=true)
+[![Stay on Topic](../images/screenshots/stay-on-topic.png)](https://egghead.io/lessons/tools-stay-on-topic?play=true)
 
 ## Guide Their Eyes
 
@@ -38,4 +38,4 @@ highlighting the area of the screen that you're teaching. Use the mouse to selec
 that creates a sense of movement to tell them "You should be looking here!" Remember, this is a video,
 they're here for the _movement_, so keep it movin'!
 
-[Guide Their Eyes](https://egghead.io/lessons/tools-guide-their-eyes?play=true)
+[![Guide Their Eyes](../images/screenshots/guide-their-eyes.png)](https://egghead.io/lessons/tools-guide-their-eyes?play=true)
