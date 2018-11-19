@@ -9,8 +9,8 @@ app.use(express.static(__dirname + '/_book'));
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
 
-app.get('/', function(request, response) {
-  response.render('pages/index');
+app.get('/*', function(req,res){
+  res.redirect('https://howtoegghead.com/instructors', '301');
 });
 
 app.listen(app.get('port'), function() {
