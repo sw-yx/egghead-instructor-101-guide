@@ -79,4 +79,7 @@ Sometimes you want to speed over some unimportant parts or slow down important p
 
 You can annotate your videos with arrows and boxes by using the Annotations tool in the top right in the inspector pane.
 
+![image](https://user-images.githubusercontent.com/6764957/52251395-ad5de100-28a0-11e9-9b18-e80056582711.png)
+
+
 They act like regular video clips so you can fade them in and out, apply animations, etc.
