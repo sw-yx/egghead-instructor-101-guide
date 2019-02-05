@@ -73,7 +73,12 @@ If you want any help or advice, speak up! You aren’t the first person to do th
 
 ## ⚡️ speed up/slow down video
 
-Sometimes you want to speed over some unimportant parts or slow down important parts. You can do this in a controlled percentage wide format in Screenflow ([instructions here](https://www.youtube.com/watch?v=Pu4b-ECFAYk)) or do it interactively by holding down `Option` while dragging the edges of a clip to do the same thing. Sped up clips will show a :rabbit2: and slowed clips will have a :turtle:. This is handy for stretching or shrinking a clip to be a specific size, **and** you can do it with multiple clips at once.
+Sometimes you want to speed over some unimportant parts or slow down important parts. You can do this in a controlled percentage wide format in Screenflow ([instructions here](https://www.youtube.com/watch?v=Pu4b-ECFAYk)).
+
+Alternatively, you can do it interactively by holding down `Option` while dragging the edges of a clip to do the same thing. Sped up clips will show a :rabbit2: and slowed clips will have a :turtle:. This is handy for stretching or shrinking a clip to be a specific size, **and** you can do it with multiple clips at once.
+
+![stretch clip time](https://user-images.githubusercontent.com/6764957/52251445-fb72e480-28a0-11e9-8b32-304670ce2e0e.gif)
+
 
 ## ⚡️ annotate video
 
